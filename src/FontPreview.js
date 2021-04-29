@@ -14,7 +14,16 @@ export function FontPreview() {
 
   return (
     <>
-      <label>
+      <label
+        style={{
+          position: 'sticky',
+          background: 'white',
+          top: '0',
+          display: 'block',
+          paddingTop: '0.5rem',
+          paddingBottom: '0.5rem',
+        }}
+      >
         Preview Text:
         <input
           style={{ marginLeft: '1rem', border: 'blue 1px solid', paddingLeft: '0.5rem' }}
