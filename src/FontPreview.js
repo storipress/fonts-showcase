@@ -50,7 +50,7 @@ export function FontPreview() {
                 {fontList[category].map((name) => (
                   <tr key={name}>
                     <td>{name}</td>
-                    <td style={{ fontFamily: name, fontSize: '2rem' }}>{text || 'Hello world'}</td>
+                    <td style={{ fontFamily: `'${name}'`, fontSize: '2rem' }}>{text || 'Hello world'}</td>
                   </tr>
                 ))}
               </Fragment>
