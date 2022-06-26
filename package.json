@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://storipress.github.io/fonts-showcase",
   "dependencies": {
-    "@storipress/fonts": "^1.0.2",
+    "@storipress/fonts": "1.0.4",
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.6",
     "@testing-library/user-event": "^13.1.8",
