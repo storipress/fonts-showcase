@@ -4,14 +4,14 @@
   "private": true,
   "homepage": "https://storipress.github.io/fonts-showcase",
   "dependencies": {
-    "@storipress/fonts": "^1.0.4",
-    "@testing-library/jest-dom": "^5.12.0",
-    "@testing-library/react": "^11.2.6",
-    "@testing-library/user-event": "^13.1.8",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
+    "@storipress/fonts": "1.0.4",
+    "@testing-library/jest-dom": "5.12.0",
+    "@testing-library/react": "11.2.6",
+    "@testing-library/user-event": "13.1.8",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
     "react-scripts": "4.0.3",
-    "web-vitals": "^1.1.2"
+    "web-vitals": "1.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -40,9 +40,9 @@
     ]
   },
   "devDependencies": {
-    "eslint-config-react-app": "^6.0.0",
-    "gh-pages": "^3.1.0",
-    "react-refresh": "^0.10.0"
+    "eslint-config-react-app": "6.0.0",
+    "gh-pages": "3.1.0",
+    "react-refresh": "0.10.0"
   },
   "packageManager": "yarn@3.2.1"
 }
