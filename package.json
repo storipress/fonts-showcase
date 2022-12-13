@@ -42,7 +42,7 @@
   "devDependencies": {
     "eslint-config-react-app": "6.0.0",
     "gh-pages": "4.0.0",
-    "react-refresh": "0.10.0"
+    "react-refresh": "0.14.0"
   },
   "packageManager": "yarn@3.2.1"
 }
