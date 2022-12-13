@@ -2262,14 +2262,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@testing-library/user-event@npm:13.1.8":
-  version: 13.1.8
-  resolution: "@testing-library/user-event@npm:13.1.8"
-  dependencies:
-    "@babel/runtime": ^7.12.5
+"@testing-library/user-event@npm:14.4.3":
+  version: 14.4.3
+  resolution: "@testing-library/user-event@npm:14.4.3"
   peerDependencies:
     "@testing-library/dom": ">=7.21.4"
-  checksum: 1e4fdd8f21c6b8455c50dcf35f2c20059156d84beb697da58cd54696aeada7c7c4cf173bf8724e8ef42a4307a9af5714070e6bcdd76dd5c5e9f4ae2286f69556
+  checksum: 852c48ea6db1c9471b18276617c84fec4320771e466cd58339a732ca3fd73ad35e5a43ae14f51af51a8d0a150dcf60fcaab049ef367871207bea8f92c4b8195e
   languageName: node
   linkType: hard
 
@@ -6801,7 +6799,7 @@ __metadata:
     "@storipress/fonts": 1.0.4
     "@testing-library/jest-dom": 5.12.0
     "@testing-library/react": 11.2.6
-    "@testing-library/user-event": 13.1.8
+    "@testing-library/user-event": 14.4.3
     eslint-config-react-app: 6.0.0
     gh-pages: 4.0.0
     react: 17.0.2
