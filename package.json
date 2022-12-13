@@ -40,7 +40,7 @@
     ]
   },
   "devDependencies": {
-    "eslint-config-react-app": "6.0.0",
+    "eslint-config-react-app": "7.0.1",
     "gh-pages": "4.0.0",
     "react-refresh": "0.10.0"
   },
