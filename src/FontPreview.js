@@ -1,6 +1,6 @@
 import '@storipress/fonts/fonts.css'
 
-import { fontList } from '@storipress/fonts/font-list.ts'
+import { fontList } from '@storipress/fonts/font-list'
 import { Fragment, useState } from 'react'
 
 function readQuery() {
