@@ -44,5 +44,5 @@
     "gh-pages": "5.0.0",
     "react-refresh": "0.14.0"
   },
-  "packageManager": "yarn@3.4.1"
+  "packageManager": "yarn@3.5.0"
 }
