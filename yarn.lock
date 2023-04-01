@@ -75,7 +75,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@antfu/eslint-config@npm:^0.38.2":
+"@antfu/eslint-config@npm:0.38.2":
   version: 0.38.2
   resolution: "@antfu/eslint-config@npm:0.38.2"
   dependencies:
@@ -1117,7 +1117,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vitejs/plugin-react@npm:^3.1.0":
+"@vitejs/plugin-react@npm:3.1.0":
   version: 3.1.0
   resolution: "@vitejs/plugin-react@npm:3.1.0"
   dependencies:
@@ -2055,7 +2055,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-config-prettier@npm:^8.8.0":
+"eslint-config-prettier@npm:8.8.0":
   version: 8.8.0
   resolution: "eslint-config-prettier@npm:8.8.0"
   peerDependencies:
@@ -2222,7 +2222,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-prettier@npm:^4.2.1":
+"eslint-plugin-prettier@npm:4.2.1":
   version: 4.2.1
   resolution: "eslint-plugin-prettier@npm:4.2.1"
   dependencies:
@@ -2393,7 +2393,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint@npm:^8.37.0":
+"eslint@npm:8.37.0":
   version: 8.37.0
   resolution: "eslint@npm:8.37.0"
   dependencies:
@@ -2631,22 +2631,22 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "fonts-showcase@workspace:."
   dependencies:
-    "@antfu/eslint-config": ^0.38.2
+    "@antfu/eslint-config": 0.38.2
     "@storipress/fonts-meta": ^1.2.2
     "@testing-library/jest-dom": 5.16.5
     "@testing-library/react": 14.0.0
     "@testing-library/user-event": 14.4.3
-    "@vitejs/plugin-react": ^3.1.0
-    eslint: ^8.37.0
-    eslint-config-prettier: ^8.8.0
-    eslint-plugin-prettier: ^4.2.1
+    "@vitejs/plugin-react": 3.1.0
+    eslint: 8.37.0
+    eslint-config-prettier: 8.8.0
+    eslint-plugin-prettier: 4.2.1
     gh-pages: 5.0.0
     react: 18.2.0
     react-dom: 18.2.0
     react-refresh: 0.14.0
-    tsafe: ^1.6.0
-    typescript: ^5.0.3
-    vite: ^4.2.1
+    tsafe: 1.6.0
+    typescript: 5.0.3
+    vite: 4.2.1
     web-vitals: 3.3.0
   languageName: unknown
   linkType: soft
@@ -4865,7 +4865,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"tsafe@npm:^1.6.0":
+"tsafe@npm:1.6.0":
   version: 1.6.0
   resolution: "tsafe@npm:1.6.0"
   checksum: 1cea91c1b8a2d4d4ab37f940bbbe297890c5f83cf5415f1e7450373b47f621ebb5da962786a0f3eb1756ebf947750d3ece2b5bb64740c153cc1390cf41202fe1
@@ -4943,7 +4943,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@npm:^5.0.3":
+"typescript@npm:5.0.3":
   version: 5.0.3
   resolution: "typescript@npm:5.0.3"
   bin:
@@ -4953,7 +4953,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@patch:typescript@^5.0.3#~builtin<compat/typescript>":
+"typescript@patch:typescript@5.0.3#~builtin<compat/typescript>":
   version: 5.0.3
   resolution: "typescript@patch:typescript@npm%3A5.0.3#~builtin<compat/typescript>::version=5.0.3&hash=85af82"
   bin:
@@ -5049,7 +5049,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite@npm:^4.2.1":
+"vite@npm:4.2.1":
   version: 4.2.1
   resolution: "vite@npm:4.2.1"
   dependencies:
