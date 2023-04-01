@@ -1,6 +1,5 @@
-import '@storipress/fonts/fonts.css'
-
-import { fontList } from '@storipress/fonts/font-list'
+import { fontList } from '@storipress/fonts-meta'
+import { objectKeys } from 'tsafe'
 import { Fragment, useState } from 'react'
 
 function readQuery() {
@@ -39,7 +38,7 @@ export function FontPreview() {
           </tr>
         </thead>
         <tbody>
-          {Object.keys(fontList).map((category) =>
+          {objectKeys(fontList).map((category) =>
             filter == null || category.toLowerCase() === filter ? (
               <Fragment key={category}>
                 {!filter ? (
