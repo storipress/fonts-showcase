@@ -2644,7 +2644,7 @@ __metadata:
     react: 18.2.0
     react-dom: 18.2.0
     react-refresh: 0.14.0
-    tsafe: 1.6.0
+    tsafe: 1.6.4
     typescript: 5.0.3
     vite: 4.2.1
     web-vitals: 3.3.0
@@ -4865,10 +4865,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"tsafe@npm:1.6.0":
-  version: 1.6.0
-  resolution: "tsafe@npm:1.6.0"
-  checksum: 1cea91c1b8a2d4d4ab37f940bbbe297890c5f83cf5415f1e7450373b47f621ebb5da962786a0f3eb1756ebf947750d3ece2b5bb64740c153cc1390cf41202fe1
+"tsafe@npm:1.6.4":
+  version: 1.6.4
+  resolution: "tsafe@npm:1.6.4"
+  checksum: 9a6194442248451891f3fcab4d77ee81be767334023f62af885187071bb3d457d030b43871cf303685c45c5d6389bc230730ac94d257b1d0f2f91f40c2d7fbc1
   languageName: node
   linkType: hard
 
