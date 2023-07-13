@@ -704,10 +704,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@storipress/fonts-meta@npm:^1.3.0":
-  version: 1.3.0
-  resolution: "@storipress/fonts-meta@npm:1.3.0::__archiveUrl=https%3A%2F%2Fnpm.pkg.github.com%2Fdownload%2F%40storipress%2Ffonts-meta%2F1.3.0%2F16999503ea46bca090a460584feabe329e97354d"
-  checksum: 2c71a64f5ac66992bdcfab8abbda8e8ccdb3f4f67a3e90cc76c09a812c5a9f095e6b3b91b10d20252016c1bf79ebce5980e8c7893ae21b60fa796bb685536c2f
+"@storipress/fonts-meta@npm:^1.4.0":
+  version: 1.4.0
+  resolution: "@storipress/fonts-meta@npm:1.4.0::__archiveUrl=https%3A%2F%2Fnpm.pkg.github.com%2Fdownload%2F%40storipress%2Ffonts-meta%2F1.4.0%2F0e5c8db8b6987e1bae8dbb723ebca0104d38fda0"
+  checksum: d09de22e3a151b705a227f0ec51fb5d3caf8c7beb372c9a7818066ea24b058545de12a478ffed5a982a10381862222e5760add753b7d00e2af8fe078d07372b8
   languageName: node
   linkType: hard
 
@@ -2533,7 +2533,7 @@ __metadata:
   resolution: "fonts-showcase@workspace:."
   dependencies:
     "@antfu/eslint-config": 0.39.4
-    "@storipress/fonts-meta": ^1.3.0
+    "@storipress/fonts-meta": ^1.4.0
     "@testing-library/jest-dom": 5.16.5
     "@testing-library/react": 14.0.0
     "@testing-library/user-event": 14.4.3
