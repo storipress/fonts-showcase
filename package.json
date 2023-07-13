@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "@antfu/eslint-config": "0.39.4",
-    "@vitejs/plugin-react": "4.0.0",
+    "@vitejs/plugin-react": "4.0.3",
     "eslint": "8.42.0",
     "eslint-config-prettier": "8.8.0",
     "eslint-plugin-prettier": "4.2.1",
