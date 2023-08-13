@@ -22,7 +22,7 @@
   "devDependencies": {
     "@antfu/eslint-config": "0.39.7",
     "@vitejs/plugin-react": "4.0.3",
-    "eslint": "8.44.0",
+    "eslint": "8.47.0",
     "eslint-config-prettier": "8.8.0",
     "eslint-plugin-prettier": "5.0.0",
     "gh-pages": "6.0.0",
