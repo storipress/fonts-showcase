@@ -2,7 +2,7 @@
   "name": "fonts-showcase",
   "version": "0.1.0",
   "private": true,
-  "packageManager": "yarn@3.6.1",
+  "packageManager": "yarn@3.6.4",
   "homepage": "https://storipress.github.io/fonts-showcase",
   "scripts": {
     "build": "vite build",
