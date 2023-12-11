@@ -20,7 +20,7 @@
     "web-vitals": "3.5.0"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "0.40.2",
+    "@antfu/eslint-config": "0.43.1",
     "@vitejs/plugin-react": "4.2.1",
     "eslint": "8.47.0",
     "eslint-config-prettier": "9.0.0",
