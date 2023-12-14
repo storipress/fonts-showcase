@@ -2,7 +2,7 @@
   "name": "fonts-showcase",
   "version": "0.1.0",
   "private": true,
-  "packageManager": "yarn@3.6.4",
+  "packageManager": "yarn@4.0.2",
   "homepage": "https://storipress.github.io/fonts-showcase",
   "scripts": {
     "build": "vite build",
@@ -11,9 +11,9 @@
   },
   "dependencies": {
     "@storipress/fonts-meta": "^1.4.0",
-    "@testing-library/jest-dom": "5.17.0",
-    "@testing-library/react": "14.0.0",
-    "@testing-library/user-event": "14.4.3",
+    "@testing-library/jest-dom": "6.1.5",
+    "@testing-library/react": "14.1.2",
+    "@testing-library/user-event": "14.5.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "tsafe": "1.6.5",
@@ -22,12 +22,12 @@
   "devDependencies": {
     "@antfu/eslint-config": "0.40.2",
     "@vitejs/plugin-react": "4.2.1",
-    "eslint": "8.47.0",
-    "eslint-config-prettier": "9.0.0",
-    "eslint-plugin-prettier": "5.0.0",
-    "gh-pages": "6.0.0",
+    "eslint": "8.55.0",
+    "eslint-config-prettier": "9.1.0",
+    "eslint-plugin-prettier": "5.0.1",
+    "gh-pages": "6.1.0",
     "react-refresh": "0.14.0",
-    "typescript": "5.1.6",
-    "vite": "4.4.12"
+    "typescript": "5.3.3",
+    "vite": "5.0.9"
   }
 }
